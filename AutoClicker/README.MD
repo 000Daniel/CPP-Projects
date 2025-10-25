@@ -1,5 +1,5 @@
 # AUTO CLICKER
-![ICON](https://github.com/000Daniel/CPP-Projects/blob/da86d26dcbe3b0c309c0c5e9d4d2ab07a1f6ad69/AutoClicker/Images/ICON.png)
+![ICON](https://github.com/000Daniel/CPP-Projects/blob/da86d26dcbe3b0c309c0c5e9d4d2ab07a1f6ad69/AutoClicker/Images/ICON.png) <br />
 Auto Clicker - a simple GUI program that allows the user to automatically simulate mouse clicks with a variety of different options. <br />
 <br />
 ![AutoClickerGUI](https://github.com/000Daniel/CPP-Projects/blob/866bcddd3e2069da22253681d90a331686e03644/AutoClicker/Images/AutoClickerGUI.png)
