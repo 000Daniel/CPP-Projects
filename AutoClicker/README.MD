@@ -7,6 +7,8 @@ Auto Clicker - a simple GUI program that allows the user to automatically simula
 <br />
 ![AutoClickerGUI](https://github.com/000Daniel/CPP-Projects/blob/866bcddd3e2069da22253681d90a331686e03644/AutoClicker/Images/AutoClickerGUI.png)
 <br />
+<br />
+<br />
 This is my first program made with C++! <br />
 Remember that this project was an exercise so issues are to be expected. <br />
 The project utilizes [wxWidgets](https://wxwidgets.org/) for its functionality. <br />
@@ -15,6 +17,7 @@ The project utilizes [wxWidgets](https://wxwidgets.org/) for its functionality. 
    🞄 GCC vesrion: 14.2.0 <br />
    🞄 wxWidgets version: 3.3.1 <br />
    🞄 Visual Studio Community 2022 version: 17.14.18 <br />
+<br />
 <br />
 <br />
 ```diff
