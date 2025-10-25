@@ -1,1 +1,19 @@
-README
+# AUTO CLICKER
+
+Auto Clicker - a simple GUI program that allows the user to automatically simulate mouse clicks with a variety of different options.
+<br />
+This is my first program made with C++!
+Remember that this project was also an exercise so issues are to be expected. <br />
+The project utilizes [wxWidgets](https://wxwidgets.org/) for its functionality. <br />
+<br />
+### EXTRA:
+   🞄 GCC vesrion: 14.2.0 <br />
+   🞄 wxWidgets version: 3.3.1 <br />
+   🞄 Visual Studio Community 2022 version: 17.14.18 <br />
+<br />
+
+```diff
+- created by https://github.com/000Daniel
+```
+Began development on: 15.10.2025 <br />
+Publish date: 25.10.2025 <br />
