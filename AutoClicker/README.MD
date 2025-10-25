@@ -1,8 +1,8 @@
 # AUTO CLICKER
 
-Auto Clicker - a simple GUI program that allows the user to automatically simulate mouse clicks with a variety of different options.
+Auto Clicker - a simple GUI program that allows the user to automatically simulate mouse clicks with a variety of different options. <br />
 <br />
-This is my first program made with C++!
+This is my first program made with C++! <br />
 Remember that this project was also an exercise so issues are to be expected. <br />
 The project utilizes [wxWidgets](https://wxwidgets.org/) for its functionality. <br />
 <br />
