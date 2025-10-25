@@ -18,6 +18,7 @@ The project utilizes [wxWidgets](https://wxwidgets.org/) for its functionality. 
    🞄 GCC vesrion: 14.2.0 <br />
    🞄 wxWidgets version: 3.3.1 <br />
    🞄 Visual Studio Community 2022 version: 17.14.18 <br />
+   🞄 [Source-Code documentation](https://github.com/000Daniel/CPP-Projects/blob/main/AutoClicker/Documentation.md)
 <br />
 <br />
 <br />
