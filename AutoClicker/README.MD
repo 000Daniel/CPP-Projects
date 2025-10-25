@@ -1,6 +1,10 @@
 # AUTO CLICKER
 
 Auto Clicker - a simple GUI program that allows the user to automatically simulate mouse clicks with a variety of different options. <br />
+
+<p align="center">
+    ![Notepad_Logo_HD](https://github.com/000Daniel/CPP-Projects/blob/main/AutoClicker/Images/AutoClickerGUI.png?raw=true)
+    </p>
 <br />
 This is my first program made with C++! <br />
 Remember that this project was also an exercise so issues are to be expected. <br />
