@@ -5,7 +5,8 @@ This document will focus on explaining how Auto Clicker works behind the scenes.
 Since this is my first C++ project aswell as first wxWidgets project a lot of thing could've been better here,</br>
 but I've decided to release the program and code like this since this is an exercise after all and not a commercial project.</br>
 </br>
-I've followed [this guide](https://www.youtube.com/watch?v=BjQhp0eHmJw&list=PLFk1_lkqT8MbVOcwEppCPfjGOGhLvcf9G&index=1) to get the projects started. </br>
+I've followed [this guide](https://www.youtube.com/watch?v=BjQhp0eHmJw&list=PLFk1_lkqT8MbVOcwEppCPfjGOGhLvcf9G&index=1) to get the projects started.
+As well as I used ChatGPT for some feature suggestions / code suggestions. </br>
 </br>
 
 ## App.cpp </br>
