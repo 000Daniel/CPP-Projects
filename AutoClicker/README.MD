@@ -12,6 +12,12 @@ Auto Clicker - a simple GUI program that allows the user to automatically simula
 <br />
 <br />
 <br />
+### Known issues:
+   🞄 Pressing escape won't cancel the keybind action. <br />
+   🞄 This program cannot interact with applications running with elevated privileges unless it is also running with elevated privileges. <br />
+<br />
+<br />
+<br />
 ### Change Log - 1.0.1.0 (3.11.2026)
    🞄 Added 3 presets, now you can switch between them as you need - all settings are saved to each preset. <br />
    🞄 Added a toggle/hold button, to switch between auto clicking modes. <br />
