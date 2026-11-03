@@ -11,14 +11,14 @@ Auto Clicker - a simple GUI program that allows the user to automatically simula
 <br />
 <br />
 ### Change Log - 1.0.1.0 (3.11.2026)
-- Added 3 presets, now you can switch between them as you need - all settings are saved to each preset. <br />
-- Added a toggle/hold button, to switch between auto clicking modes. <br />
-- Added key bind support for Mouse4 and Mouse5 keys. <br />
-- Added a save button as well as more auto save features. <br />
-- Fixed a crashing issue when stopping the auto clicker. <br />
-- Fixed an issue where auto clicker would continue to click when selecting a key bind. <br />
-- Fixed an issue where using high click intervals would cause the program to freeze and not respond properly. <br />
-- Changed the internal code to use mouse and keyboard hooks (win32). <br />
+   🞄 Added 3 presets, now you can switch between them as you need - all settings are saved to each preset. <br />
+   🞄 Added a toggle/hold button, to switch between auto clicking modes. <br />
+   🞄 Added key bind support for Mouse4 and Mouse5 keys. <br />
+   🞄 Added a save button as well as more auto save features. <br />
+   🞄 Fixed a crashing issue when stopping the auto clicker. <br />
+   🞄 Fixed an issue where auto clicker would continue to click when selecting a key bind. <br />
+   🞄 Fixed an issue where using high click intervals would cause the program to freeze and not respond properly. <br />
+   🞄 Changed the internal code to use mouse and keyboard hooks (win32). <br />
 <br />
 <br />
 <br />
