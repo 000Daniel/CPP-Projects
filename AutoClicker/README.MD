@@ -19,7 +19,7 @@ Auto Clicker - a simple GUI program that allows the user to automatically simula
 - Fixed an issue where auto clicker would continue to click when selecting a key bind.
 - Fixed an issue where using high click intervals would cause the program to freeze and not respond properly.
 - Changed the internal code to use mouse and keyboard hooks (win32).
-<br />
+
 <br />
 <br />
 This is my first program made with C++! <br />
