@@ -10,15 +10,28 @@ Auto Clicker - a simple GUI program that allows the user to automatically simula
 <br />
 <br />
 <br />
+### Change Log - 1.0.1.0 (3.11.2026)
+- Added 3 presets, now you can switch between them as you need - all settings are saved to each preset.
+- Added a toggle/hold button, to switch between auto clicking modes.
+- Added key bind support for Mouse4 and Mouse5 keys.
+- Added a save button as well as more auto save features.
+- Fixed a crashing issue when stopping the auto clicker.
+- Fixed an issue where auto clicker would continue to click when selecting a key bind.
+- Fixed an issue where using high click intervals would cause the program to freeze and not respond properly.
+- Changed the internal code to use mouse and keyboard hooks (win32).
+<br />
+<br />
+<br />
 This is my first program made with C++! <br />
 Remember that this project was an exercise so issues are to be expected. <br />
 The project utilizes [wxWidgets](https://wxwidgets.org/) for its functionality. <br />
 <br />
 ### EXTRA:
-   🞄 GCC vesrion: 14.2.0 <br />
+   🞄 GCC vesrion: 6.3.0 <br />
    🞄 wxWidgets version: 3.3.1 <br />
-   🞄 Visual Studio Community 2022 version: 17.14.18 <br />
+   🞄 Visual Studio Community 2026 version: 18.11.00 <br />
    🞄 [Source-Code documentation](https://github.com/000Daniel/CPP-Projects/blob/main/AutoClicker/Documentation.md)
+   🞄 Used ChatGPT's suggestions for some feature implementation.
 <br />
 <br />
 <br />
