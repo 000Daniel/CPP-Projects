@@ -5,7 +5,7 @@ Auto Clicker - a simple GUI program that allows the user to automatically simula
    🞄 Supports limiting number of clicks <br />
    🞄 Supports locking clicks to a position on screen <br />
 <br />
-### [Download Link](https://github.com/000Daniel/CPP-Projects/releases/tag/AutoClicker)
+### [Download Link](https://github.com/000Daniel/CPP-Projects/releases/tag/AutoClicker1.0.1)
 ![AutoClickerGUI](https://github.com/000Daniel/CPP-Projects/blob/main/AutoClicker/Images/AutoClickerGUI_1.0.1.0.png)
 <br />
 <br />
