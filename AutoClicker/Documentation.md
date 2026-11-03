@@ -5,13 +5,20 @@ This document will focus on explaining how Auto Clicker works behind the scenes.
 Since this is my first C++ project aswell as first wxWidgets project a lot of thing could've been better here,</br>
 but I've decided to release the program and code like this since this is an exercise after all and not a commercial project.</br>
 </br>
-I've followed [this guide](https://www.youtube.com/watch?v=BjQhp0eHmJw&list=PLFk1_lkqT8MbVOcwEppCPfjGOGhLvcf9G&index=1) to get the projects started.</br>
+I've followed [this guide](https://www.youtube.com/watch?v=BjQhp0eHmJw&list=PLFk1_lkqT8MbVOcwEppCPfjGOGhLvcf9G&index=1) to get the projects started. </br>
 </br>
 
 ## App.cpp </br>
 Its main objective is to initialize the program and the program's window. </br>
 'App::OnInit()' declares the MainFrame and loads a config file (the user's saved preferences). </br>
 Inside you'll also find 'App::IconManager()' function that changes the programs icons. </br>
+'App::ConfigManager()' handles config files, since there are 3 presets and 1 settings config file. </br>
+</br>
+
+## Config files </br>
+We first load settings.ini, then we can get the current selected/saved preset. </br>
+'config1.ini', 'config2.ini' and 'config3.ini'. </br>
+The program then loads that preset in a function we will talk about later. </br>
 </br>
 
 ## MainFrame.cpp </br>
@@ -31,6 +38,8 @@ I've saved a lot of the controls globally since they'll be called from multiple 
 'KeyBindConfigMemory'   int - Remembers what bind the user has - used to load user preferences. </br>
 </br>
 Now for the functions: </br>
+'KeyboardHook' and 'MouseHook' both handle user inputs and send them to the appropriate functions to handle. </br>
+In case of mouse inputs - 'MouseHook' also handles keybind changes. </br>
 'MainFrame' Adds all the controls and sets their values. </br>
 Generates a random seed for 'gen'. </br>
 Registers the F6 as the default bind to start/stop the autoclicking loop. </br>
@@ -45,10 +54,10 @@ Registers the F6 as the default bind to start/stop the autoclicking loop. </br>
 </br>
 'OnButtonStopClicked' calls function 'StopLoop'.</br>
 </br>
-'PressedF6' calls for 'StartLoop' or 'StopLoop' depending on AutoClicking.</br>
 'ChangingBind' also causes a return since you don't want the program to start autoclicking when user is changing a key.</br>
 </br>
-'PressedBindKey' detects what key the user pressed when changing a bind.</br>
+'PressedBindKey' detects what key the user pressed when changing a bind. </br>
+'SetKeyBind' handles the keybind change. </br>
 Checks that the key is valid and remembers the key (KeyBindConfigMemory).</br>
 Unregisters old bind and registers new bind.</br>
 Changes text on start and stop buttons.</br>
@@ -93,6 +102,7 @@ and resets everything else to factory default settings.</br>
 </br>
 'SavePrefs' saves the user's settings to a config file.</br>
 'config->Flush' to actually save the changes.</br>
+'HandleHotkeyDown' and 'HandleHotkeyUp' decide when to start and when to stop the auto-clicking loop.</br>
 
 
 
