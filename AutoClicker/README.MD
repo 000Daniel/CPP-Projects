@@ -32,7 +32,7 @@ The project utilizes [wxWidgets](https://wxwidgets.org/) for its functionality. 
    🞄 GCC vesrion: 6.3.0 <br />
    🞄 wxWidgets version: 3.3.1 <br />
    🞄 Visual Studio Community 2026 version: 18.11.00 <br />
-   🞄 [Source-Code documentation](https://github.com/000Daniel/CPP-Projects/blob/main/AutoClicker/Documentation.md)
+   🞄 [Source-Code documentation](https://github.com/000Daniel/CPP-Projects/blob/main/AutoClicker/Documentation.md) <br />
    🞄 Used ChatGPT's suggestions for some feature implementation.
 <br />
 <br />
