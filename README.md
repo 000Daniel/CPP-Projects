@@ -27,7 +27,7 @@ Feel free to look around and try some of those programs/scripts for yourself!
 <br />
 <br />
 <br />
-<br />
+
 ```diff
 - created by https://github.com/000Daniel
 ```
