@@ -2,8 +2,8 @@
 A simple program that extracts .ico files from .exe files. <br />
 You can either drag and drop the .exe file into the program or right click on the .exe and choose "Extract icon" and it will extract the .ico to the same path as the .exe.
 <br />
-This is less of coding exercise and more of a vide-coding exercise.
-I used ChatGPT to make most of this program with just small adjustments made by me.
+This is less of a 'real' coding exercise and more of a vide-coding exercise.
+I used ChatGPT to make most of this program with just a handful adjustments made by me.
 <br />
 <br />
 <br />
