@@ -8,7 +8,8 @@ Feel free to look around and try some of those programs/scripts for yourself!
 <br />
 <br />
 <br />
-## Released Projects
+## Released Projects <br />
+
 ### [AutoClicker](https://github.com/000Daniel/CPP-Projects/tree/main/AutoClicker) - [Download Link](https://github.com/000Daniel/CPP-Projects/releases/tag/AutoClicker1.0.1)
 <br />
 ### [Icon Extractor](https://github.com/000Daniel/CPP-Projects/tree/main/Icon%20Extractor) - [Download Link](https://github.com/000Daniel/CPP-Projects/releases/tag/IconExtractor)
