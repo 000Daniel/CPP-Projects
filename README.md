@@ -13,8 +13,9 @@ Feel free to look around and try some of those programs/scripts for yourself!
 ### [AutoClicker](https://github.com/000Daniel/CPP-Projects/tree/main/AutoClicker) - [Download Link](https://github.com/000Daniel/CPP-Projects/releases/tag/AutoClicker1.0.1)
 
 ### [Icon Extractor](https://github.com/000Daniel/CPP-Projects/tree/main/Icon%20Extractor) - [Download Link](https://github.com/000Daniel/CPP-Projects/releases/tag/IconExtractor)
-
 <br />
+<br />
+
 ### Note:  
 - Usually I write my C++ projects in Visual Studio Community.  
 <br />
