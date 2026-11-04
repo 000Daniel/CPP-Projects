@@ -23,7 +23,7 @@ Delete the program. <br />
 - Visual Studio Community 2026 version: 18.11.00
 <br />
 <br />
-<br />
+
 ```diff
 - created by https://github.com/000Daniel
 ```
