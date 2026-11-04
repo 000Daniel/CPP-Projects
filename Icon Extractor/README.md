@@ -1,0 +1,29 @@
+# ICON EXTRACTOR
+A simple program that extracts .ico files from .exe files. <br />
+You can either drag and drop the .exe file into the program or right click on the .exe and choose "Extract icon" and it will extract the .ico to the same path as the .exe.
+<br />
+This is less of coding exercise and more of a vide-coding exercise.
+I used ChatGPT to make most of this program with just small adjustments made by me.
+<br />
+<br />
+<br />
+### Install:
+Extract the contents of the ZIP.
+Run "Install IE to Context Menu.bat".
+<br />
+### Uninstall:
+Run "Uninstall IE from the Context Menu.reg"
+Delete the program.
+<br />
+<br />
+<br />
+### EXTRA:
+- GCC vesrion: 6.3.0
+- Visual Studio Community 2026 version: 18.11.00
+<br />
+<br />
+<br />
+```diff
+- created by https://github.com/000Daniel
+```
+Publish date: 04.11.2026 <br />
