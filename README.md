@@ -8,14 +8,20 @@ Feel free to look around and try some of those programs/scripts for yourself!
 <br />
 <br />
 <br />
+## Released Projects
+### [AutoClicker](https://github.com/000Daniel/CPP-Projects/tree/main/AutoClicker) - [Download Link](https://github.com/000Daniel/CPP-Projects/releases/tag/AutoClicker1.0.1)
+<br />
+### [Icon Extractor](https://github.com/000Daniel/CPP-Projects/tree/main/Icon%20Extractor) - [Download Link](https://github.com/000Daniel/CPP-Projects/releases/tag/IconExtractor)
+<br />
+<br />
 ### Note:  
-   🞄 Usually I write my C++ projects in Visual Studio Community.  
+- Usually I write my C++ projects in Visual Studio Community.  
 <br />
-   🞄 My projects usually are coding exercises, issues are to be expected.  
+- My projects usually are coding exercises, issues are to be expected.  
 <br />
-   🞄 Publish date - refers to the upload date of the project.  
+- Publish date - refers to the upload date of the project.  
 <br />
-   🞄 Release date - refers to when was the project finished.  
+- Release date - refers to when was the project finished.  
 <br />
 <br />
 <br />
