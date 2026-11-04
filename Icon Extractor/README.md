@@ -7,13 +7,14 @@ I used ChatGPT to make most of this program with just small adjustments made by 
 <br />
 <br />
 <br />
+# [DOWNLOAD LINK](https://github.com/000Daniel/CPP-Projects/releases/tag/IconExtractor)
 ### Install:
-Extract the contents of the ZIP.
-Run "Install IE to Context Menu.bat".
+Extract the contents of the ZIP. <br />
+Run "Install IE to Context Menu.bat". <br />
 <br />
 ### Uninstall:
-Run "Uninstall IE from the Context Menu.reg"
-Delete the program.
+Run "Uninstall IE from the Context Menu.reg" <br />
+Delete the program. <br />
 <br />
 <br />
 <br />
