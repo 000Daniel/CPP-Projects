@@ -18,11 +18,11 @@ Feel free to look around and try some of those programs/scripts for yourself!
 
 ### Note:  
 - Usually I write my C++ projects in Visual Studio Community.  
-<br />
+
 - My projects usually are coding exercises, issues are to be expected.  
-<br />
+
 - Publish date - refers to the upload date of the project.  
-<br />
+
 - Release date - refers to when was the project finished.  
 <br />
 <br />
